@@ -2,6 +2,9 @@
 So, this is a back case model,for phones which have built or can also have attach a MagSafe ring at the back of the phone .
 It features a 12 x 16 RGBLED matrix which can be used to present anything from notifications ,alerts ,incoming calls ,animations or even some cool games.
 The help us to control the over-usage of phone and it also helps to limit our Screen Time , by providing all the important notifications at the back of the phone.
+<img width="2880" height="1226" alt="Untitled_2026-Mar-03_09-15-18AM-000_CustomizedView28997941230_png" src="https://github.com/user-attachments/assets/a2067b0f-1c24-41f4-88ee-828088ba3404" />
+
+
 
 # Components 
 SK9822-EC20:-
